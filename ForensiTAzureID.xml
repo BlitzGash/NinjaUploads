@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='style.xsl'?>
+<ForensiTAzureID ObjectId="73029633-7ee5-4d15-9cb7-af317b73a37d" Name="robertsdalepower.onmicrosoft.com robertsdalepower.com" DisplayName="Robertsdale Power Equipment">
+    <User>
+        <UserPrincipalName>a.ellison@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>e79b5f18-a179-45df-ad38-14af921dd71f</ObjectId>
+        <DisplayName>Angie Ellison</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>a.thompson@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>4b80dfdf-49ad-46c2-b39d-c3f334f8a7ed</ObjectId>
+        <DisplayName>Andrew Thompson</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>a.wilson@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>2c9426b8-1b98-4d0c-bddf-4386b44be795</ObjectId>
+        <DisplayName>Angel Wilson</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>a.zajicek@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>2f5189fc-3be5-459f-817a-c499e4084eca</ObjectId>
+        <DisplayName>Alyssa Zajicek</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>admin@robertsdalepower.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>0006058c-a546-4f51-b534-f456fd7a7bda</ObjectId>
+        <DisplayName>Chris Smith</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>ap@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>d5f1db70-37fe-4228-b323-8be17e360f78</ObjectId>
+        <DisplayName>AP</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>b.raymond@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>da0d1df9-8305-49d5-b838-2c073e5d924d</ObjectId>
+        <DisplayName>Brad Raymond</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>bobcatsales@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>968a35d2-5edf-4d28-8e1d-f740f91065a5</ObjectId>
+        <DisplayName>Bobcat Sales</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>breakglass-emergency-1@robertsdalepower.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>cb7e070e-98ea-409e-8549-0c987000d9ab</ObjectId>
+        <DisplayName>breakglass1</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>breakglass-emergency-2@robertsdalepower.onmicrosoft.com</UserPrincipalName>
+        <ObjectId>65415edb-b433-4b1f-a8ec-5b6ca12b8a8d</ObjectId>
+        <DisplayName>Breakglass2</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>c.chupek@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>9fa71b12-1865-4017-95d3-f619a10780ae</ObjectId>
+        <DisplayName>Chad Chupek</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>c.daniels@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>f495c257-9546-4f80-9e0d-d212c4bcbd70</ObjectId>
+        <DisplayName>Cory Daniels</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>donotreply@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>ead0acfe-1320-48a1-a7b3-861713773fa7</ObjectId>
+        <DisplayName>Do Not Reply</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>j.green@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>1bb9cea6-5ba7-4b00-85f5-26e20086e05c</ObjectId>
+        <DisplayName>Jim Green</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>j.stokes@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>1254320c-93ac-4892-a7e6-6a99664ec8b8</ObjectId>
+        <DisplayName>John Stokes</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>l.carlson@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>9e278f95-6e2d-418b-a771-edc84f634362</ObjectId>
+        <DisplayName>Lori Carlson</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>m.hess@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>3f8eecc4-613e-47fb-b852-aced8c4b5e5d</ObjectId>
+        <DisplayName>Michael Hess</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>m.sharpless@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>928999e4-3643-42ad-8c7c-ea5a7ce2f4af</ObjectId>
+        <DisplayName>Matt Sharpless</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>media@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>725d9172-a14d-4bc2-b302-5fc712f46c40</ObjectId>
+        <DisplayName>Media</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>orders@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>d8f1ee21-f655-4c72-83a7-8b2a62275315</ObjectId>
+        <DisplayName>Orders</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>parts@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>61851a28-7952-4add-8e44-58d69eccac04</ObjectId>
+        <DisplayName>Parts</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>rental@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>8a469c90-8a15-48f8-a379-187f787b7924</ObjectId>
+        <DisplayName>Rental</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>rpe@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>c1e8dade-6577-4cc4-a839-85dfd892d0ec</ObjectId>
+        <DisplayName>RPE</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>sales@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>55d4b66e-e501-4b0e-b329-f237727ea323</ObjectId>
+        <DisplayName>Sales</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>service@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>5d62cdc2-afbc-45d0-a31d-ae10360fdb45</ObjectId>
+        <DisplayName>Service</DisplayName>
+    </User>
+    <User>
+        <UserPrincipalName>warranty@robertsdalepower.com</UserPrincipalName>
+        <ObjectId>25d66af2-8a39-4fb4-8e5c-82a0e1f74096</ObjectId>
+        <DisplayName>Warranty</DisplayName>
+    </User>
+</ForensiTAzureID>
